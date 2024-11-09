@@ -10,6 +10,7 @@ Telegram图片上传机器人，转发到大厂非公开接口，国内CDN加速
 # 演示
 ![image](https://image.p6y.cn/api/images/3bb94deec0f19a0de69e745d9536a842.jpg)
 ![image](https://image.p6y.cn/api/images/ead834cafcf6743c32a245e52a60a9d1.jpg)
+
 测试地址：[@LinuorsBot](https://t.me/LinuorsBot)
 
 # 部署教程
@@ -19,6 +20,7 @@ Telegram图片上传机器人，转发到大厂非公开接口，国内CDN加速
 Telegram搜索[@BotFather](https://t.me/BotFather)新建对话
 发送命令 /newbot 开始新建机器人
 ![image](https://image.p6y.cn/api/images/4b9a8faac590c05cc26e32194b6e8545.jpg)
+
 保存好获取到的API Token
 
 - # **第二步** 调整机器人设置(可选，主要是为了设置机器人聊天时的菜单)
@@ -30,6 +32,7 @@ type - 选择上传接口
 help - 显示帮助信息
 ```
 ![image](https://image.p6y.cn/api/images/b4277be916b3ed35b5b67bfc548992cf.jpg)
+
 设置完后可以在"Edit Bot" - "Edit Botpic"处设置机器人头像
 
 - # **第三步** 安装Requests和Python-Telegram-Bot
